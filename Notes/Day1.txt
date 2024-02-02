@@ -1,0 +1,24 @@
+﻿Data is an integral part of our system. Data should be stored or say arranged in such a way that it can be efficiently utilised and operations can be performed easily.
+
+We have primary memory ,i.e., CPU (micro processor) or RAM , Temporary storage. The processor executes the programs inside the main memory.
+Then we have secondary memory ,i.e., HDD or external storage or ROM , Permanent storage.When we download and install any application, the program files of the application
+i.e., the .exe files are stored in the secondary memory and the data related to this application is also stored in the secondary memory.
+
+Now , when I want to use the application , lets say MS Word , the program files of this application are then brought in the main memory. The data related to the app is also 
+brought in the main memory.Now the processor starts executing the program files in the main memory and during the execution of the program , the arrangement of the data inside 
+main memory , in such way that data can be utilised efficiently and operations can be performed efficiently is called DATA STRUCTURES.That is how it will arrange the data in the main memory.
+So data structures is a part of running program. Data structures , is not on the disk , it is in the main memory.
+
+When Data grows in size , the two terms Database and Datawarehouse come in picture. So basically when the data is big in size and is commercial data , It can be divided in two categories
+1. Operational Data - data that is used on daily basis
+2. Legacy Data - Historical data , that is inactive at present but can be retrived and utilised of some purpose.
+
+When we work with big size , operational data , the data is stored in databases on the Disk (secondary storage) and when the application needs the data , it is loaded in the main memory and again ,
+how thge data is arranged in the main memory , we need data structures.
+
+When we are dealing with very large size , legacy data , the data is stored in the array of disks , this is called Data Warehouse and the algorithms written to analyse this data is called data mining algorithms
+
+******  Static v/s Dynamic Memory Allocation  *******
+
+
+
